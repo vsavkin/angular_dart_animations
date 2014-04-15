@@ -1,4 +1,5 @@
 name: angular_dart_animations
+description: 'animations'
 dependencies:
   angular: any
   browser: any
